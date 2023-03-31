@@ -1,6 +1,6 @@
 Name:		texlive-secnum
 Version:	61813
-Release:	1
+Release:	2
 Summary:	A macro to format section numbering intuitively
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/secnum
