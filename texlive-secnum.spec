@@ -3,7 +3,7 @@ Version:	61813
 Release:	2
 Summary:	A macro to format section numbering intuitively
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/secnum
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/secnum
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/secnum.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/secnum.doc.r%{version}.tar.xz
